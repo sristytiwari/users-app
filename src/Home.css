@@ -1,0 +1,62 @@
+.home-main-container {
+    margin-top: 2rem;
+    padding: 1rem 3rem 1rem 3rem;
+}
+
+.userlist-container {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.user-details-container {
+    padding: 1rem 0 0 5rem;
+    background-color: #9BCFEE;
+    margin: .2rem 0 .5rem 0;
+    /* border-radius: 10px; */
+    color: #202020;
+    position: relative;
+
+
+
+
+
+    -webkit-box-shadow: 0px 6px 14px -10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 6px 14px -10px rgba(0,0,0,0.75);
+    box-shadow: 0px 6px 14px -10px rgba(0,0,0,0.75);
+}
+
+.input-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.submit-btn {
+   /* margin-top: 1rem; */
+}
+
+.input-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.subheading {
+    font-size: 1rem;
+    margin-top: 1rem;
+}
+
+.form-section {
+    background-color: burlywood;
+    padding: 1rem;
+}
+.add-btn {
+    margin-left: 1rem;
+}
+
+.delete-btn{
+    position: absolute;
+    bottom: 1rem;
+    right:1rem;
+}
